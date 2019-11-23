@@ -1,0 +1,11 @@
+{
+  "name": "db_testing",
+  "version": "1.0.0",
+  "description": "testing to use a mysql library to connect with amazon rds database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
